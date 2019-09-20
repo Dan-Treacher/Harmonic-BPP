@@ -2,8 +2,7 @@
 % Model to test stripped down case of very high order supergaussian beams to
 % verify that conclusions drawn from only looking at n = 2--3.4 are valid.
 format compact; clc
-addpath('\\physics.ox.ac.uk\dfs\Groups\Atomic & Laser\HookerGroup\HookerShared\Treacher\Matlab_Functions');
-addpath('\\physics.ox.ac.uk\dfs\Groups\Atomic & Laser\HookerGroup\HookerShared\Treacher\MatLab Spares\addaxis6');
+% Requires addaxis6 functions from "https://uk.mathworks.com/matlabcentral/fileexchange/9016-addaxis"
 
 %% 1. Equations
 
